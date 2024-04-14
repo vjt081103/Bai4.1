@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\Code\New folder (2)\PlotADC2\PlotADC2\scr\main.cpp(141,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Code\New folder (2)\PlotADC2\PlotADC2\scr\main.cpp(198,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Code\New folder (2)\PlotADC2\PlotADC2\scr\main.cpp(177,25): warning C4101: 'volchange': unreferenced local variable
+D:\Code\New folder (2)\PlotADC2\PlotADC2\scr\main.cpp(175,14): warning C4101: 'dataread': unreferenced local variable
+D:\Code\New folder (2)\PlotADC2\PlotADC2\scr\main.cpp(134,11): warning C4101: 'y': unreferenced local variable
+D:\Code\New folder (2)\PlotADC2\PlotADC2\scr\main.cpp(177,36): warning C4101: 'hzchange': unreferenced local variable
+D:\Code\New folder (2)\PlotADC2\PlotADC2\scr\main.cpp(177,13): warning C4101: 'timechange': unreferenced local variable
+D:\Code\New folder (2)\PlotADC2\PlotADC2\scr\main.cpp(176,13): warning C4101: 'control': unreferenced local variable
+D:\Code\New folder (2)\PlotADC2\PlotADC2\scr\main.cpp(69,10): warning C4101: 'buffer': unreferenced local variable
+  PlotADC2.vcxproj -> D:\Code\New folder (2)\PlotADC2\x64\Debug\PlotADC2.exe
